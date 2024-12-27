@@ -25,3 +25,24 @@
   --text-md:400 16px/140% var(--font-family-text);
   --text-sm:400 12px/140% var(--font-family-text);
 }
+body{
+  font: var(--text-md);
+  background-color: var(--gray-100);
+  color: var(--gray-500);
+}
+a{
+  text-decoration: none;
+  color: inherit
+}
+h1,h2,h3{
+  font:inherit;
+}
+img{
+  max-width: 100%;
+  
+}
+.container{
+  max-width: 1366px;
+  margin-inline: auto;
+  padding-inline: 32px;
+}

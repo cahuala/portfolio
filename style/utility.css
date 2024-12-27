@@ -1,0 +1,37 @@
+.title-lg{
+  font:var(--title-lg);
+}
+.title-md{
+  font:var(--title-md);
+}
+.title-sm{
+  font:var(--title-sm);
+}
+.subtitle-lg{
+  font: var(--subtitle-lg);
+}
+.text-md{
+  font:var(--text-md);
+}
+.text-sm{
+  font:var(--text-sm);
+}
+.img-html {
+  filter: invert(43%) sepia(85%) saturate(2363%) hue-rotate(3deg) brightness(98%) contrast(97%);
+}
+
+.img-css {
+  filter: invert(20%) sepia(78%) saturate(3374%) hue-rotate(217deg) brightness(91%) contrast(99%);
+}
+
+.img-js {
+  filter: invert(85%) sepia(48%) saturate(700%) hue-rotate(1deg) brightness(101%) contrast(100%);
+}
+
+.img-react {
+  filter: invert(68%) sepia(28%) saturate(2172%) hue-rotate(184deg) brightness(100%) contrast(97%);
+}
+
+.img-node {
+  filter: invert(55%) sepia(27%) saturate(492%) hue-rotate(86deg) brightness(94%) contrast(96%);
+}
