@@ -47,3 +47,7 @@
 .colorText{
   color: var(--red);
 }
+.colorTextFooter{
+  color: var(--purple);
+}
+
