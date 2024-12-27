@@ -1,3 +1,12 @@
+.grid{
+  display: grid;
+}
+.grid-flow-col{
+  grid-auto-flow: column;
+}
+.grid-cols-3{
+  grid-template-columns: 1fr 1fr 1fr;
+}
 .title-lg{
   font:var(--title-lg);
 }
@@ -34,4 +43,7 @@
 
 .img-node {
   filter: invert(55%) sepia(27%) saturate(492%) hue-rotate(86deg) brightness(94%) contrast(96%);
+}
+.colorText{
+  color: var(--red);
 }
